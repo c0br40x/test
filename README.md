@@ -16,3 +16,8 @@
   <h3>Video testing the exploit</h3>
   <img src="https://web.telegram.org/z/progressive/msg-1728048374-11688:6021548495498907246"></img>
 </div>
+
+---
+
+<div id="install" align="center">
+  <h3>
