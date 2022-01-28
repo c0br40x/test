@@ -32,7 +32,7 @@
   </h3>
 </div>
 
-Una vulnerabilidad fue encontrada en `polkit` y clasificada como critica. Una funcion desconocida del archivo `/usr/bin/pkexec/` es afectada por esta vulnerabilidad. Por la manipulacion de un input desconocido se causa una vulnerabilidad de clase `escalada de privilegios / escalation privilages`. Esto tiene repercusion sobre la confidencialidad, integridad y disponibilidad.
+Una vulnerabilidad fue encontrada en `polkit` y clasificada como critica. Una funcion desconocida del archivo `/usr/bin/pkexec/` es afectada por esta vulnerabilidad. Por la manipulacion de un input desconocido se causa una vulnerabilidad de clase escalada de privilegios / escalation privilages. Esto tiene repercusion sobre la confidencialidad, integridad y disponibilidad.
 
 La vulnerabilidad fue publicada el `2022-01-26`. El advisory puede ser descargada desde `qualys.com`. La vulnerabilidad es identificada como `CVE-2021-4034`. La explotacion se considera facil. El ataque se puede efectuar a traves de la red. Para explotarla se requiere una autentificacion. Los detalles tecnicos asi como un exploit publico son conocidos.
 
