@@ -12,11 +12,9 @@
   <img src="https://img.shields.io/github/languages/top/luijait/PwnKit-Exploit?label=C"></img>
 </div>
 
----
-
 <div id="poc" align="center">
   <h3>POC:</h3>
-  <img src="https://j.gifs.com/XQpL88.gif"></img>
+  <img src="https://j.gifs.com/XQpL88.gif" height="300"></img>
 </div>
 
 ---
