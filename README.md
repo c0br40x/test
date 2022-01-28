@@ -28,15 +28,6 @@
 
 <div id="explanation" align="center">
   <h3>
-    Una vulnerabilidad fue encontrada en polkit y clasificada como crítica. Una función desconocida del archivo /usr/bin/pkexec es afectada por esta vulnerabilidad. Por la manipulación de un input desconocido se causa una vulnerabilidad de clase escalada de privilegios. Esto tiene repercusión sobre la confidencialidad, integridad y disponibilidad.
-    
-    
-La vulnerabilidad fue publicada el 2022-01-26 (confirmado). El advisory puede ser descargado de qualys.com. La vulnerabilidad es identificada como CVE-2021-4034. La explotación se considera fácil. El ataque se puede efectuar a través de la red. Para explotarla se requiere una autentificación. Los detalles técnicos asi como un exploit público son conocidos.
-
-    
-Un exploit ha sido desarrollado por BLASTY en C y publicado incluso antes y no después del anuncio. Fue declarado como proof-of-concept. El exploit puede ser descargado de haxx.in. Por lo menos durante 1 días, esta vulnerabilidad fue clasificada como exploit día cero.
-
-    
-Es posible mitigar el efecto del problema mediante el uso de chmod 0755 /usr/bin/pkexec.
+    Explanation:
   </h3>
 </div>
