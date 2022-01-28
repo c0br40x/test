@@ -20,4 +20,6 @@
 ---
 
 <div id="install" align="center">
-  <h3>
+  <h3>Install:</h3>
+  <img src="https://media.discordapp.net/attachments/870535335011024906/936767448831651890/unknown.png"></img>
+</div>
