@@ -14,7 +14,10 @@
 
 ---
 
-![POC](https://j.gifs.com/XQpL88.gif)
+<div id="poc" align="center">
+  <h3>POC:</h3>
+  <img src="https://j.gifs.com/XQpL88.gif"></img>
+</div>
 
 ---
 
