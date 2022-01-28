@@ -38,6 +38,8 @@ La vulnerabilidad fue publicada el `2022-01-26`. El advisory puede ser descargad
 
 Es posible mitigar el efecto del problema mediante el uso de `chmod 0755 /usr/bin/pkexec`.
 
+---
+
 <div id="explanation" align="center">
   <h3>
     Memes in Community:
