@@ -37,3 +37,11 @@ Una vulnerabilidad fue encontrada en `polkit` y clasificada como critica. Una fu
 La vulnerabilidad fue publicada el `2022-01-26`. El advisory puede ser descargada desde `qualys.com`. La vulnerabilidad es identificada como `CVE-2021-4034`. La explotacion se considera facil. El ataque se puede efectuar a traves de la red. Para explotarla se requiere una autentificacion. Los detalles tecnicos asi como un exploit publico son conocidos.
 
 Es posible mitigar el efecto del problema mediante el uso de `chmod 0755 /usr/bin/pkexec`.
+
+<div id="explanation" align="center">
+  <h3>
+    Memes in Community:
+  </h3>
+</div>
+
+
