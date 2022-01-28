@@ -14,7 +14,7 @@
 
 <div id="text" align="center">
   <h3>Video testing the exploit</h3>
-  <img src="https://web.telegram.org/z/progressive/msg-1728048374-11688:6021548495498907246"></img>
+  <img src="https://cdn.discordapp.com/attachments/858862104709693490/936449760313884692/FullSizeRender.mov"></img>
 </div>
 
 ---
