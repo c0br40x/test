@@ -12,10 +12,7 @@
   <img src="https://img.shields.io/github/languages/top/luijait/PwnKit-Exploit?label=C"></img>
 </div>
 
-<div id="text" align="center">
-  <h3>Video testing the exploit</h3>
-  <img src="https://cdn.discordapp.com/attachments/858862104709693490/936449760313884692/FullSizeRender.mov"></img>
-</div>
+![POC](https://j.gifs.com/XQpL88.gif)
 
 ---
 
