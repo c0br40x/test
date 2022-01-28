@@ -42,11 +42,21 @@ Es posible mitigar el efecto del problema mediante el uso de `chmod 0755 /usr/bi
 
 ---
 
-<div id="explanation" align="center">
-  <h3>
-    Memes in Community:
-  </h3>
-  <img src="https://user-images.githubusercontent.com/60628803/151507343-b49df170-c853-47c9-aac1-740302e435f9.png" height="600"></img>
+<div align=center>
+  <table>
+    <tr>
+      <td>
+        <div align=center>
+          <img src="https://user-images.githubusercontent.com/60628803/151507343-b49df170-c853-47c9-aac1-740302e435f9.png" width=70px>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src=""> <!-- Testing... -->
+      </td>
+    </tr>
+  </table>
 </div>
 
 
