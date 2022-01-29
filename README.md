@@ -43,20 +43,6 @@ Es posible mitigar el efecto del problema mediante el uso de `chmod 0755 /usr/bi
 ---
 
 <div align=center>
-  <table>
-    <tr>
-      <td>
-        <div align=center>
-          <img src="https://user-images.githubusercontent.com/60628803/151507343-b49df170-c853-47c9-aac1-740302e435f9.png" width=200px height=200px>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src=""> <!-- Testing... -->
-      </td>
-    </tr>
-  </table>
+  <img src="https://user-images.githubusercontent.com/60628803/151507343-b49df170-c853-47c9-aac1-740302e435f9.png" width=200px height=200px>
 </div>
-
 
