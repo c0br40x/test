@@ -49,8 +49,9 @@ Es posible mitigar el efecto del problema mediante el uso de `chmod 0755 /usr/bi
 
 ---
 
-<center>
+<div align="center">
   <h3><br>Readme made by: <a href="https://github.com/c0br40x">c0br40x</br></h3>
-</center>
+</div>
+
 ---
 
