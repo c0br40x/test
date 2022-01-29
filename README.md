@@ -43,6 +43,6 @@ Es posible mitigar el efecto del problema mediante el uso de `chmod 0755 /usr/bi
 ---
 
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/60628803/151507343-b49df170-c853-47c9-aac1-740302e435f9.png" width=400px height=200px>
+  <img src="https://user-images.githubusercontent.com/60628803/151507343-b49df170-c853-47c9-aac1-740302e435f9.png" width=400px height=250px>
 </div>
 
