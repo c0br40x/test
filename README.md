@@ -16,7 +16,7 @@
 
 <div id="poc" align="center">
   <h3>POC:</h3>
-  <img src="https://j.gifs.com/XQpL88.gif" width=600 height="300"></img>
+  <img src="https://j.gifs.com/XQpL88.gif" width=600 height="400"></img>
 </div>
 
 ---
